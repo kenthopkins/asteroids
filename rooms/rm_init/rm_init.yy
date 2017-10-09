@@ -1,6 +1,6 @@
 
 {
-    "name": "rm_01",
+    "name": "rm_init",
     "id": "3d3b1388-8e3b-4221-8fee-98b5be3b8e68",
     "creationCodeFile": "",
     "inheritCode": false,
